@@ -2,36 +2,45 @@
 海外短剧App系统搭建
 
 在 2024 年这个短剧出海“亿”级爆发的阶段，目前有超过 100 款短剧 app 试水海外应用，累计下载量超 1.48亿次，全年出海短剧总收入将达到 4亿美元，2023年净流水同比增长 2871倍，海外短剧长期市场空间有望达到 360亿 美元。
+
 ![image](https://github.com/user-attachments/assets/dfb1cf7d-6a14-448b-8271-fd1cc4f0234b)
 
 1. CPS分销系统已经安排上了！数据与播放系统完全打通，0 成本达人自主推广模式，平台有收益之后再进行分佣，降低推广门槛，多等级无限裂变，极速开启短剧推广。相比于标准版的海外短剧，你想当拥有 2 个我们王牌的分销模式，你可根据数据分析针对不同的用户群体采用不同的分销裂变方式，让你无惧推广运营！
 
 2. 迈特支持全局自主定义短剧资源功能了！而且采用沉浸式无限下拉的追剧体验！无论是头部 banner 配置、必看短剧、新剧来袭、热门榜单、剧单推荐，短剧资源自主配置统统都不是问题。更有自定义配置模块！标题、副标题、背景底图、短剧内容，配置从未如此简单.
- ![image](https://github.com/user-attachments/assets/968cd7b3-ea1c-4592-9330-f15f96b9463c)
+
+![image](https://github.com/user-attachments/assets/968cd7b3-ea1c-4592-9330-f15f96b9463c)
 
 3. 迈特支持更加丰富的沉浸式追剧功能了！无论是头部分栏、快捷搜索、红包引流、分享/点赞/追剧、短剧打赏、二级评论，涵盖当下所有主流的追剧功能模块。
+
 ![image](https://github.com/user-attachments/assets/504691d6-1045-4a63-92c1-75a1be94baf2)
 
 4. 无论是账号密码登录、手机号验证码登录、邮箱验证码登录，还是三方快捷登录（facebook/googel/twtter），迈特涵盖当下海外所有主流登录/注册功能。
-   ![image](https://github.com/user-attachments/assets/626040c5-8345-4a96-98bd-49dfa965097e)
+
+![image](https://github.com/user-attachments/assets/626040c5-8345-4a96-98bd-49dfa965097e)
 
 5.支持全世界的语言，轻松切换语言模块，即可推广任何你想推广的国家；我们不仅覆盖了谷歌支持的主流 20+币种 和主流的贝宝支付&Stripe支付 渠道，而且已经适配对接多个国家本土的支付方式，各位老板有想推广小众的支付方式均可与我们沟通，轻松帮你完成对接
 ![image](https://github.com/user-attachments/assets/83355cf8-8ec1-41b6-b6c0-e83c97e9c67d)
 
 6. 迈特支持 多语言网文功能 了！无论是常规的沉浸式阅读模式、自主配置的阅读方式、自主切换的语言模块、多种网文分类，还是网文排行榜、网文打赏、网文写手 等等独特的功能，迈特涵盖当下海外所有主流网文小说功能。
-   ![image](https://github.com/user-attachments/assets/c9a1cb4f-6fb7-4e7f-82d1-873e37b4ba0d)
+
+![image](https://github.com/user-attachments/assets/c9a1cb4f-6fb7-4e7f-82d1-873e37b4ba0d)
 
 7. 无论是常规的绑定账号任务、迈特独有的签到模块、自主配置的积分商城、美图&链接的邀请好友，还是独有的看本地广告任务、分享社交网站任务、看剧累计剧集任务、充值金额任务的功能，迈特涵盖当下海外所有主流的任务福利功能。
-   ![image](https://github.com/user-attachments/assets/b4485ef8-854f-4253-a0bf-9f315a0afc0e)
 
-8. 无论是统一付费的入口 减少付费链路的转化，还是独有的我的页面VIP付费套餐推荐功能，迈特采用更适合海外用户的支付转化路径。减少用户的付费链路，统一的入口，点击直接调起支付的交互，只为你提高你的付费转化
-   ![image](https://github.com/user-attachments/assets/01323c81-0856-40e7-bd7b-3fe49e306386)
+![image](https://github.com/user-attachments/assets/b4485ef8-854f-4253-a0bf-9f315a0afc0e)
 
-9. 无论是积分支付挽留挽留、会员支付解锁挽留、看广告解锁挽留、新剧推荐挽留，还是多种调起机制、多种开关控制 功能，迈特涵盖当下海外所有用户挽留功能。
-    ![image](https://github.com/user-attachments/assets/ca03707c-55fe-4530-850a-5f8f0b8d268b)
+9. 无论是统一付费的入口 减少付费链路的转化，还是独有的我的页面VIP付费套餐推荐功能，迈特采用更适合海外用户的支付转化路径。减少用户的付费链路，统一的入口，点击直接调起支付的交互，只为你提高你的付费转化
+ 
+![image](https://github.com/user-attachments/assets/01323c81-0856-40e7-bd7b-3fe49e306386)
 
-10. 对比标准版，采用一体化分销页面设计，一个页面即可完成开通分销商、分享好友、团队管理、收益管理等等；后台自主模块开关，可一键开启关闭分销模块，关闭后视觉交互完全没有影响.
-11. ![image](https://github.com/user-attachments/assets/7d68e8c1-cd23-46be-928b-fec8fb702c14)
+11. 无论是积分支付挽留挽留、会员支付解锁挽留、看广告解锁挽留、新剧推荐挽留，还是多种调起机制、多种开关控制 功能，迈特涵盖当下海外所有用户挽留功能。
+  
+![image](https://github.com/user-attachments/assets/ca03707c-55fe-4530-850a-5f8f0b8d268b)
+
+12. 对比标准版，采用一体化分销页面设计，一个页面即可完成开通分销商、分享好友、团队管理、收益管理等等；后台自主模块开关，可一键开启关闭分销模块，关闭后视觉交互完全没有影响.
+
+![image](https://github.com/user-attachments/assets/7d68e8c1-cd23-46be-928b-fec8fb702c14)
 
 
 更多功能与折扣
